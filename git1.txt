@@ -4,3 +4,4 @@ we are now add changes to track the file.
 
 
 now we are working on he master branch.
+changing the file to show the merge coflict.
